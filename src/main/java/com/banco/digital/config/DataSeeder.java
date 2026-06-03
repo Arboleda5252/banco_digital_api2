@@ -48,7 +48,14 @@ public class DataSeeder {
                             .fullName("Usuario Test")
                             .expeditionDate("2023-01-01")
                             .expeditionPlace("Test City")
+                            .build(),
+                    VerifiedIdentity.builder()
+                            .documentNumber("22222222")
+                            .fullName("Usuario Test 2")
+                            .expeditionDate("2023-01-02")
+                            .expeditionPlace("Test City 2")
                             .build()
+                   
                 ));
             System.out.println(">>> KYC Local: Identidades de prueba ACTUALIZADAS correctamente.");
         };
