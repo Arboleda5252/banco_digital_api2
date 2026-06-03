@@ -1,0 +1,8 @@
+#FileLock
+#Tue Jun 02 14:34:30 ACT 2026
+hostName=GoonzzaPC
+id=19e89d493403ad2e8012d257faf3917c7cd295413c6
+ipAddress=127.0.1.1
+method=socket
+port=43835
+server=127.0.1.1\:46809
