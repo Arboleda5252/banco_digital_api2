@@ -16,3 +16,5 @@ services:
         sync: false
       - key: H2_CONSOLE_ENABLED
         value: false
+      - key: CORS_ALLOWED_ORIGINS
+        sync: false
